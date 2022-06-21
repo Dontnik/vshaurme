@@ -1,0 +1,6 @@
+cat .gitignore
+.idea
+.vscode
+.DS_Store
+/db/*.sqlite3
+vshaurme/db.sqlite3
